@@ -18,12 +18,12 @@
       This tools generate dynamic queries based on certain given inputs and helps in generating dynamic Powershell scripts in 
       just a few clicks.
 
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+_You can alternately paste a [link here](https://github.com/Sitecore-Hackathon/2021-We-are-groot/blob/main/Sitecore%20SPE%20Dynamic%20Queries-1.1.zip) to a document within this repo containing the description._
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
-⟹ [Replace this Video link](#video-link)
+⟹ [Replace this Video link](https://youtu.be/h9UMnpWiZWo)
 
 
 
