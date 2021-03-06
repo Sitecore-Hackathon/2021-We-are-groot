@@ -62,7 +62,7 @@ f. ex.
 
 1. Start docker environment using `.\Start-Hackathon.ps1`
 2. Open solution in Visual Studio and run build
-3. Use the Sitecore Installation wizard to install the [package](#link-to-package)
+3. Use the Sitecore Installation wizard to install the [package](https://github.com/Sitecore-Hackathon/2021-We-are-groot/blob/main/Sitecore%20SPE%20Dynamic%20Queries-1.0.zip)
 4. ...
 5. profit
 
