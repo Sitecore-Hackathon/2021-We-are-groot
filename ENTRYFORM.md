@@ -62,29 +62,29 @@ _Remove this subsection if your entry does not require any configuration that is
                     b-Select "Template"
                     c-Enter - no of items to be created
                     d-Click "Build SPE Query"
-                    e-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE*** 
+                    e-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE 
 
      2- Delete : This helps in generating the powershell script to delete items with a particular template.
                Steps=>
                     a-Select "Sitecore root path"
                     b-Select "Template"
                     c-Click "Build SPE Query"
-                    d-Copy the generated powershell script from the bottom text area and execute  in sitecore PowerShell ISE***
+                    d-Copy the generated powershell script from the bottom text area and execute  in sitecore PowerShell ISE
      3- Update : This helps in generating the powershell script to update field value with a particular template and field name.
                Steps=>
                     a-Select "Sitecore root path"
                     b-Select "Template"
                     c-Enter "Field Name" and "Field Value"
                     d-Click "Build SPE Query"
-                    e-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE*** 
+                    e-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE 
      4- Search : This helps in generating the powershell script search and generate a report of items with a particular template.
                Steps=>
                     a-Select "Sitecore root path"
                     b-Select "Template"
                     c-Click "Build SPE Query"
-                    d-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE***    
+                    d-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE    
 
-*** To open Sitecore PowerShell ISE follow the bewlow steps :
+ To open Sitecore PowerShell ISE follow the bewlow steps :
                         1) Open Sitecore Launch Icon
                         2) Navigate to Desktop
                         3) Start Menu -> Development Tools -> PowerShell ISE
