@@ -44,27 +44,18 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 _Remove this subsection if your entry does not have any prerequisites other than Sitecore_
 
 ## Installation instructions
-⟹ Write a short clear step-wise instruction on how to install your module.  
 
-> _A simple well-described installation process is required to win the Hackathon._  
-> Feel free to use any of the following tools/formats as part of the installation:
-> - Sitecore Package files
-> - Docker image builds
-> - Sitecore CLI
-> - msbuild
-> - npm / yarn
-> 
-> _Do not use_
-> - TDS
-> - Unicorn
- 
-f. ex. 
-
-1. Start docker environment using `.\Start-Hackathon.ps1`
-2. Open solution in Visual Studio and run build
-3. Use the Sitecore Installation wizard to install the [package](https://github.com/Sitecore-Hackathon/2021-We-are-groot/blob/main/Sitecore%20SPE%20Dynamic%20Queries-1.0.zip)
-4. ...
-5. profit
+1. Open any sitecore 10.1 Evnironment
+2. Install attached sitecore package
+3. Login to Sitecore
+4. Access the utility by opening the below a) or b)
+4.a the Launch Pad => Find SPE Dynamic Query under Content Edior Group
+4.b {​​​​SitecoreInstanceName}​​​​/sitecore/admin/EasySPE.aspx
+5. Sitecore Package Contents:
+> Boot Stap css & Js
+> SPE Dynamic Query Standalone aspx page
+> Master : Test sitecore templates ( Products, Blogs, News)
+> Core : Sitecore Launch Configurations
 
 ### Configuration
 ⟹ If there are any custom configuration that has to be set manually then remember to add all details here.
@@ -72,7 +63,41 @@ f. ex.
 _Remove this subsection if your entry does not require any configuration that is not fully covered in the installation instructions already_
 
 ## Usage instructions
-⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
+⟹ This utility has 4 functionalities which can be used follwoing the below steps:
+     1- Create : This helps in generating the powershell script to Create items in bulk.
+               Steps=>
+                    a-Select "Sitecore root path"
+                    b-Select "Template"
+                    c-Enter - no of items to be created
+                    d-Click "Build SPE Query"
+                    e-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE*** 
+
+     2- Delete : This helps in generating the powershell script to delete items with a particular template.
+               Steps=>
+                    a-Select "Sitecore root path"
+                    b-Select "Template"
+                    c-Click "Build SPE Query"
+                    d-Copy the generated powershell script from the bottom text area and execute  in sitecore PowerShell ISE***
+     3- Update : This helps in generating the powershell script to update field value with a particular template and field name.
+               Steps=>
+                    a-Select "Sitecore root path"
+                    b-Select "Template"
+                    c-Enter "Field Name" and "Field Value"
+                    d-Click "Build SPE Query"
+                    e-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE*** 
+     4- Search : This helps in generating the powershell script search and generate a report of items with a particular template.
+               Steps=>
+                    a-Select "Sitecore root path"
+                    b-Select "Template"
+                    c-Click "Build SPE Query"
+                    d-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE***    
+===============================================================================================================================
+*** To open Sitecore PowerShell ISE follow the bewlow steps :
+                        1) Open Sitecore Launch Icon
+                        2) Navigate to Desktop
+                        3) Start Menu -> Development Tools -> PowerShell ISE
+                        4) Paste the copied script and click Execute Icon
+================================================================================================================================
 
 Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
 
