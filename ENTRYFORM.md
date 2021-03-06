@@ -35,14 +35,6 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 
 ## Pre-requisites and Dependencies
 
-⟹ Does your module rely on other Sitecore modules or frameworks?
-
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
-
-_Remove this subsection if your entry does not have any prerequisites other than Sitecore_
-
 ## Installation instructions
 
 1. Open any sitecore 10.1 Evnironment
@@ -102,6 +94,14 @@ _Remove this subsection if your entry does not require any configuration that is
 Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
 
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
+![Hackathon Logo](docs/Utility screenshots/create.png?raw=true "Create")
+![Hackathon Logo](docs/Utility screenshots/create-2.png?raw=true "Create 2")
+![Hackathon Logo](docs/Utility screenshots/Delete-1.png?raw=true "Delete-1")
+![Hackathon Logo](docs/Utility screenshots/Delete-2.png?raw=true "Delete-2")
+![Hackathon Logo](docs/Utility screenshots/Search-1.png?raw=true "Search-1")
+![Hackathon Logo](docs/Utility screenshots/Search-2.png?raw=true "Search-2")
+![Hackathon Logo](docs/Utility screenshots/Search-3.png?raw=true "Search-3")
+![Hackathon Logo](docs/Utility screenshots/Update-1.png?raw=true "Update-1")
 
 You can embed images of different formats too:
 
