@@ -83,18 +83,15 @@ _Remove this subsection if your entry does not require any configuration that is
                     b-Select "Template"
                     c-Click "Build SPE Query"
                     d-Copy the generated powershell script from the bottom text area and execute in sitecore PowerShell ISE***    
-===============================================================================================================================
+
 *** To open Sitecore PowerShell ISE follow the bewlow steps :
                         1) Open Sitecore Launch Icon
                         2) Navigate to Desktop
                         3) Start Menu -> Development Tools -> PowerShell ISE
                         4) Paste the copied script and click Execute Icon
-================================================================================================================================
-
-Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
 
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
-![Hackathon Logo](docs/Utility screenshots/create.png?raw=true "Create")
+![Create](docs/Utility screenshots/create.png?raw=true "Create")
 ![Hackathon Logo](docs/Utility screenshots/create-2.png?raw=true "Create 2")
 ![Hackathon Logo](docs/Utility screenshots/Delete-1.png?raw=true "Delete-1")
 ![Hackathon Logo](docs/Utility screenshots/Delete-2.png?raw=true "Delete-2")
@@ -107,9 +104,3 @@ You can embed images of different formats too:
 
 ![Deal With It](docs/images/deal-with-it.gif?raw=true "Deal With It")
 
-And you can embed external images too:
-
-![Random](https://thiscatdoesnotexist.com/)
-
-## Comments
-If you'd like to make additional comments that is important for your module entry.
