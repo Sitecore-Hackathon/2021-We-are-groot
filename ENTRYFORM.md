@@ -19,7 +19,10 @@ You can find a very good reference to Github flavoured markdown reference in [th
 
   - Module Purpose
   - It helps content author
-    - How does this module solve it
+    - All content authors are not well versed with the Powershell scripting and hence face issues while writing scripts
+      to add, delete or update assets in bulk. Their last resort is to use sitecore UI which for bulk files takes a lot of time.
+      This tools generate dynamic queries based on certain given inputs and helps in generating dynamic Powershell scripts in 
+      just a few clicks.
 
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
