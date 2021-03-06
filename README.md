@@ -1,5 +1,6 @@
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
 # Sitecore Hackathon 2021
+#nishant and Balaji
 
 - MUST READ: **[Submission requirements](SUBMISSION_REQUIREMENTS.md)**
 - [Entry form template](ENTRYFORM.md)
