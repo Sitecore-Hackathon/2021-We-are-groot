@@ -91,8 +91,8 @@ _Remove this subsection if your entry does not require any configuration that is
                         4) Paste the copied script and click Execute Icon
 
 ![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
-![Hackathon Logo](docs/Utility_screenshots/create.png?raw=true "Create")
-![Hackathon Logo](docs/Utility_screenshots/create-2.png?raw=true "Create-2")
+![Hackathon Logo](docs/Utility_screenshots/Create-5.png?raw=true "Create-5")
+![Hackathon Logo](docs/Utility_screenshots/Create-6.png?raw=true "Create-6")
 ![Hackathon Logo](docs/Utility_screenshots/Delete-1.png?raw=true "Delete-1")
 ![Hackathon Logo](docs/Utility_screenshots/Delete-2.png?raw=true "Delete-2")
 ![Hackathon Logo](docs/Utility_screenshots/Search-1.png?raw=true "Search-1")
