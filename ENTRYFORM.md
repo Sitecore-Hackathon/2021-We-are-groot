@@ -100,7 +100,5 @@ _Remove this subsection if your entry does not require any configuration that is
 ![Hackathon Logo](docs/Utility_screenshots/Search-3.png?raw=true "Search-3")
 ![Hackathon Logo](docs/Utility_screenshots/Update-1.png?raw=true "Update-1")
 
-You can embed images of different formats too:
 
-![Deal With It](docs/images/deal-with-it.gif?raw=true "Deal With It")
 
