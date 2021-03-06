@@ -1,0 +1,121 @@
+﻿body {
+    padding: 5px;
+    /*background: antiquewhite;*/
+    font-size: 20px;
+}
+
+#exTab1 .tab-content {
+    /*color : white;*/
+    /*background-color: #428bca;*/
+    padding: 5px 15px;
+}
+
+#exTab2 h3 {
+    color: white;
+    /*background-color: #428bca;*/
+    padding: 5px 15px;
+}
+
+/* remove border radius for the tab */
+
+#exTab1 .nav-pills > li > a {
+    border-radius: 0;
+}
+
+/* change border radius for the tab , apply corners on top*/
+
+#exTab3 .nav-pills > li > a {
+    border-radius: 4px 4px 0 0;
+}
+
+#exTab3 .tab-content {
+    color: white;
+    /*background-color: #428bca;*/
+    padding: 5px 15px;
+}
+
+#queryOutput {
+    width: 100%;
+    min-height: 250px;
+}
+
+div {
+    padding-top: 5px;
+}
+
+#MyTemplateRootPath {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#lblRootPath {
+    padding-top: 16px;
+}
+
+.btnBuildSpeQuery {
+    color: black;
+}
+
+#rbtnAction label {
+    padding-left: 10px;
+}
+
+.form-group {
+    margin-bottom: 0px;
+}
+
+#lblRootPath, #Label4, #lblFieldCount, #lblFieldName, #lblFieldValue {
+    padding-top: 12px;
+}
+
+#lblRootPath, #Label4 {
+    margin-right: 0px;
+}
+
+.txtFieldCountDiv {
+    margin-top: 20px;
+}
+
+#lblFieldValue, #lblFieldName {
+    margin-right: -60px;
+}
+
+#lblFieldCount {
+    margin-right: -93px;
+}
+
+#btnBuildQuery, #queryOutput {
+    margin-top: 20px;
+}
+
+.alignformFields, #queryOutput {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+#btnBuildQuery {
+    font-size: 24px;
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    background-color: #007bff;
+    color: white;
+}
+.h3-lessmarigin {
+    margin-top: 0px;
+    margin-bottom: 5px
+}
+.form-group {
+    margin-bottom: 0px;
+}
+.alignformFields {
+    padding: 10px;
+}
+.rowmarigin {
+    margin-bottom: -21px;
+}
+
